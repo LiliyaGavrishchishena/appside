@@ -1,3 +1,3 @@
 # Appside
 
-[Link](https://liliyagavrishchishena.github.io/appside/)
+[Link](http://appside.lh1.in/)
